@@ -7,4 +7,5 @@ public class GreetController {
 	public String greetPage() {
 		return "greet";
 	}
+
 }
